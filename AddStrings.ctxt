@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=AddStrings
+comment0.text=\n\ Write\ a\ description\ of\ class\ AddStrings\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=AddStrings()
+comment2.params=w1\ w2
+comment2.target=AddStrings(java.lang.String,\ java.lang.String)
+comment3.params=w1\ w2
+comment3.target=void\ setWords(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
